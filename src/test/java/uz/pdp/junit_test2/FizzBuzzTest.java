@@ -1,4 +1,4 @@
-package uz.pdp.junit2;
+package uz.pdp.junit_test2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

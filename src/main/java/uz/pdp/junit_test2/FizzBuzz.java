@@ -1,4 +1,4 @@
-package uz.pdp.junit2;
+package uz.pdp.junit_test2;
 
 public class FizzBuzz {
     public String convert(int a) {
